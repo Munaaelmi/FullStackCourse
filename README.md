@@ -2,7 +2,7 @@
 This is my first lesson
 
 During this course i will be learning:
--HTML
--CSS
--JAVASCRIPT
--REACT
+-HTML <br>
+-CSS <br>
+-JAVASCRIPT <br>
+-REACT<br>
