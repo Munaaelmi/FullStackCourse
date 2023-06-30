@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p, li, h1{
+    color: #7B6F66;
+}
+
+.outer-container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.title{
+    text-align: center;
+    color: #BAA89A;
+    font-size: 32px;
+}
+.dcd{
+    display: inline-flex;
+}
+.dcd hr{
+    margin: 10px;
+}
+.date{
+    color: #BAA89A;
+}
+.comments, .dessert{
+    margin-top: 15px;
+    text-decoration: none;
+    color: #7F996F;
+}
+.jump a{
+    text-decoration: none;
+    background-color: #7F996F;
+    padding: 10px;
+    color: #fff;
+}
+.jump{
+    margin: 20px 0;
+}
+.img-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+    width: 80%;
+}
+.process img{
+    width: 300px;
+}
+.process{
+    margin-bottom: 20px;
+}
+.container{
+    border: 1px solid #E0E0E0;
+    width: 74%;
+    padding: 10px;
+}
+.stars, .reviews{
+    display: inline-flex;
+}
+.recipe img{
+    border-radius: 4px;
+    width: 250px;
+    height: 250px;
+}
+.recipe-title{
+    display: block;
+}
+.times{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.fa-brands{
+    border-radius: 50%;
+    padding: 8px; 
+    border: 1px solid #7F996F;
+    background: #7F996F;
+    color: #fff;
+}
+h5{
+    margin-bottom: 5px;
+    color: #7F996F;
+}
+hr{
+    border: 1px solid #BAA89A;
+}
+.ingredients li, .instructions li{
+    color: #000;
+    line-height: 35px;
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    margin: 50px;
+    text-transform: uppercase;
+}
