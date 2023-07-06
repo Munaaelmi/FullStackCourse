@@ -1,0 +1,74 @@
+.container{
+    border: 1px solid;
+    border-radius: 10px;
+    max-width: 300px;
+    margin: 20px auto;
+    font-family: 'poppins';
+    padding: 10px;
+    background: #2e324a;
+    color: #fff;
+}
+.fa-ellipsis-vertical{
+    float: right;
+    padding: 5px;
+}
+.fa-heart{
+    float: left;
+    padding: 5px;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+    background: #fff;
+    padding: 2px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    font-weight: 500;
+    margin: 0 ;
+}
+.title{
+    color: #92939b;
+    text-align: center;
+    margin: 0;
+}
+.fa-location-dot{
+    float: left;
+    padding: 5px;
+}
+.location{
+    display: block;
+    font-weight: light;
+}
+.leicester{
+    margin: 0 100px;
+    text-align: center;
+}
+.boot{
+    text-align: center;
+}
+hr{
+    border: 0;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(95, 95, 95, 0.75), rgba(0, 0, 0, 0));
+}
+button{
+    border: none;
+    border-radius: 60px;
+    padding: 10px;
+    color: #fff;
+    font-family: 'poppins';
+    width: 35%;
+    margin: 10px 20px;
+    background-image: linear-gradient(to right, #8262d2 0%, #e255af 100%);
+}
+.fa-brands{
+    padding: 10px;
+    margin-left: 45px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
