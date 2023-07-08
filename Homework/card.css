@@ -15,6 +15,7 @@
 .fa-heart{
     float: left;
     padding: 5px;
+    cursor: pointer;
 }
 img{
     width: 150px;
@@ -64,11 +65,18 @@ button{
     width: 35%;
     margin: 10px 20px;
     background-image: linear-gradient(to right, #8262d2 0%, #e255af 100%);
+    cursor: pointer;
 }
 .fa-brands{
     padding: 10px;
     margin-left: 45px;
     border-radius: 50%;
     font-size: 20px;
+}
+.fa-brands:hover{
+    font-size: 30px;
+    color: #e255af;
+    cursor: pointer;
+
 }
 
